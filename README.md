@@ -1,4 +1,4 @@
-#Introduction to complex systems, JAVA, mvn, and git
+# Introduction to complex systems, JAVA, mvn, and git
 - Johan Camilo López Girón
 ---
 La entrada de los datos seran en un archivo llamado file.txt, los cuales iran separados por saltos 
